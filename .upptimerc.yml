@@ -24,9 +24,13 @@ sites:
   - name: The Monument Quilt
     url: https://themonumentquilt.org
     icon: https://themonumentquilt.org/favicon.ico
+    expectedStatusCodes:
+      - 503
   - name: The Monument Quilt (App)
     url: https://app.themonumentquilt.org
     icon: https://app.themonumentquilt.org/favicon.ico
+  - name: The Monument Quilt (Archive)
+    url: $MQ_ARCHIVE_URL
   - name: Personal website
     url: https://disman.tl
   - name: Nextcloud
