@@ -13,13 +13,13 @@ sites:
     url: https://analytics.acab.enterprises
     icon: https://analytics.acab.enterprises/plugins/CoreHome/images/favicon.png
   - name: Mail
-    url: https://mail.acab.enterprises
+    url: $MAIL_URL
     icon: https://mail.acab.enterprises/favicon.ico
   - name: Plex
-    url: https://plex.acab.enterprises
+    url: https://plex.acab.enterprises/web/index.html
     icon: https://plex.acab.enterprises/web/favicon.ico
   - name: Torrent
-    url: https://torrents.acab.enterprises
+    url: https://torrent.acab.enterprises
     icon: https://torrent.acab.enterprises/icons/deluge-32.png
   - name: Movies
     url: https://movies.acab.enterprises
