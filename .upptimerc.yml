@@ -6,6 +6,29 @@ sites:
   - name: Gitlab
     url: https://acab.enterprises
     icon: https://acab.enterprises/uploads/-/system/appearance/favicon/1/acablogosmall.png
+  - name: Critical Frequency
+    url: https://criticalfrequency.org
+    icon: https://criticalfrequency.org/favicon-32x32.png
+  - name: BPD Watch
+    url: https://bpdwatch.com
+    icon: https://bpdwatch.com/static/icons/favicon-32x32.png
+  - name: Case Explorer
+    url: https://mdcaseexplorer.com
+    icon: https://mdcaseexplorer.com/favicon.ico
+  - name: Open Justice Baltimore
+    url: https://openjusticebaltimore.org
+    icon: https://openjusticebaltimore.org/favicon-32x32.png
+  - name: FORCE
+    url: https://upsettingrapeculture.com
+    icon: https://upsettingrapeculture.com/favicon-32x32.png
+  - name: The Monument Quilt
+    url: https://themonumentquilt.org
+    icon: https://themonumentquilt.org/favicon.ico
+  - name: The Monument Quilt (App)
+    url: https://app.themonumentquilt.org
+    icon: https://app.themonumentquilt.org/favicon.ico
+  - name: Personal website
+    url: https://disman.tl
   - name: Nextcloud
     url: https://nextcloud.acab.enterprises
     icon: https://nextcloud.acab.enterprises/core/img/favicon.ico
@@ -30,15 +53,6 @@ sites:
   - name: Jackett
     url: https://jackett.acab.enterprises
     icon: https://jackett.acab.enterprises/favicon.ico
-  - name: BPD Watch
-    url: https://bpdwatch.com
-    icon: https://bpdwatch.com/static/icons/favicon-32x32.png
-  - name: Case Explorer
-    url: https://mdcaseexplorer.com
-    icon: https://mdcaseexplorer.com/favicon.ico
-  - name: Open Justice Baltimore
-    url: https://openjusticebaltimore.org
-    icon: https://openjusticebaltimore.org/favicon-32x32.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
