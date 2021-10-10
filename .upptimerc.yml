@@ -45,8 +45,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.acab.enterprises
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://acab.enterprises/uploads/-/system/appearance/logo/1/acablogo300.png
+  name: ACAB Enterprises Status
   introTitle: "**ACAB Enterprises** status"
   introMessage: Check here for the status of ACAB Enterprises websites.
   navbar:
@@ -57,3 +57,6 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+assignees:
+  - dismantl
+robotsText: "User-agent: * \n Disallow: /"
