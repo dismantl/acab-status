@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 654,
-    "timeDay": 654,
-    "timeWeek": 654,
-    "timeMonth": 654,
-    "timeYear": 654,
+    "time": 705,
+    "timeDay": 705,
+    "timeWeek": 705,
+    "timeMonth": 705,
+    "timeYear": 705,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 567,
-    "timeDay": 567,
-    "timeWeek": 567,
-    "timeMonth": 567,
-    "timeYear": 567,
+    "time": 546,
+    "timeDay": 546,
+    "timeWeek": 546,
+    "timeMonth": 546,
+    "timeYear": 546,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 493,
-    "timeDay": 493,
-    "timeWeek": 493,
-    "timeMonth": 493,
-    "timeYear": 493,
+    "time": 498,
+    "timeDay": 498,
+    "timeWeek": 498,
+    "timeMonth": 498,
+    "timeYear": 498,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://mail.acab.enterprises/favicon.ico",
     "slug": "mail",
     "status": "down",
-    "uptime": "54.88%",
-    "uptimeDay": "54.88%",
-    "uptimeWeek": "54.88%",
-    "uptimeMonth": "54.88%",
-    "uptimeYear": "54.88%",
+    "uptime": "1.94%",
+    "uptimeDay": "1.94%",
+    "uptimeWeek": "1.94%",
+    "uptimeMonth": "1.94%",
+    "uptimeYear": "1.94%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-10": 0
+      "2021-10-10": 26
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://plex.acab.enterprises/web/favicon.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "4.00%",
-    "uptimeDay": "4.00%",
-    "uptimeWeek": "4.00%",
-    "uptimeMonth": "4.00%",
-    "uptimeYear": "4.00%",
-    "time": 281,
-    "timeDay": 281,
-    "timeWeek": 281,
-    "timeMonth": 281,
-    "timeYear": 281,
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
+    "time": 286,
+    "timeDay": 286,
+    "timeWeek": 286,
+    "timeMonth": 286,
+    "timeYear": 286,
     "dailyMinutesDown": {
-      "2021-10-10": 0
+      "2021-10-10": 26
     }
   },
   {
@@ -99,18 +99,18 @@
     "icon": "https://torrent.acab.enterprises/icons/deluge-32.png",
     "slug": "torrent",
     "status": "down",
-    "uptime": "2.24%",
-    "uptimeDay": "2.24%",
-    "uptimeWeek": "2.24%",
-    "uptimeMonth": "2.24%",
-    "uptimeYear": "2.24%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-10": 0
+      "2021-10-10": 26
     }
   },
   {
@@ -124,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 372,
-    "timeDay": 372,
-    "timeWeek": 372,
-    "timeMonth": 372,
-    "timeYear": 372,
+    "time": 361,
+    "timeDay": 361,
+    "timeWeek": 361,
+    "timeMonth": 361,
+    "timeYear": 361,
     "dailyMinutesDown": {}
   },
   {
@@ -142,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 331,
-    "timeDay": 331,
-    "timeWeek": 331,
-    "timeMonth": 331,
-    "timeYear": 331,
+    "time": 353,
+    "timeDay": 353,
+    "timeWeek": 353,
+    "timeMonth": 353,
+    "timeYear": 353,
     "dailyMinutesDown": {}
   },
   {
@@ -160,11 +160,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 416,
-    "timeDay": 416,
-    "timeWeek": 416,
-    "timeMonth": 416,
-    "timeYear": 416,
+    "time": 431,
+    "timeDay": 431,
+    "timeWeek": 431,
+    "timeMonth": 431,
+    "timeYear": 431,
     "dailyMinutesDown": {}
   },
   {
@@ -178,11 +178,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 523,
-    "timeDay": 523,
-    "timeWeek": 523,
-    "timeMonth": 523,
-    "timeYear": 523,
+    "time": 546,
+    "timeDay": 546,
+    "timeWeek": 546,
+    "timeMonth": 546,
+    "timeYear": 546,
     "dailyMinutesDown": {}
   },
   {
@@ -196,11 +196,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 377,
-    "timeDay": 377,
-    "timeWeek": 377,
-    "timeMonth": 377,
-    "timeYear": 377,
+    "time": 438,
+    "timeDay": 438,
+    "timeWeek": 438,
+    "timeMonth": 438,
+    "timeYear": 438,
     "dailyMinutesDown": {}
   },
   {
@@ -214,11 +214,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 461,
-    "timeDay": 461,
-    "timeWeek": 461,
-    "timeMonth": 461,
-    "timeYear": 461,
+    "time": 364,
+    "timeDay": 364,
+    "timeWeek": 364,
+    "timeMonth": 364,
+    "timeYear": 364,
     "dailyMinutesDown": {}
   }
 ]
