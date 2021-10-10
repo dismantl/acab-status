@@ -1,26 +1,54 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: dismantl
+repo: acab-status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Gitlab
+    url: https://acab.enterprises
+    icon: https://acab.enterprises/uploads/-/system/appearance/favicon/1/acablogosmall.png
+  - name: Nextcloud
+    url: https://nextcloud.acab.enterprises
+    icon: https://nextcloud.acab.enterprises/core/img/favicon.ico
+  - name: Analytics
+    url: https://analytics.acab.enterprises
+    icon: https://analytics.acab.enterprises/plugins/CoreHome/images/favicon.png
+  - name: Mail
+    url: https://mail.acab.enterprises
+    icon: https://mail.acab.enterprises/favicon.ico
+  - name: Plex
+    url: https://plex.acab.enterprises
+    icon: https://plex.acab.enterprises/web/favicon.ico
+  - name: Torrent
+    url: https://torrents.acab.enterprises
+    icon: https://torrent.acab.enterprises/icons/deluge-32.png
+  - name: Movies
+    url: https://movies.acab.enterprises
+    icon: https://movies.acab.enterprises/Content/Images/Icons/favicon-32x32.png
+  - name: TV
+    url: https://tv.acab.enterprises
+    icon: https://tv.acab.enterprises/Content/Images/Icons/favicon-32x32.png
+  - name: Jackett
+    url: https://jackett.acab.enterprises
+    icon: https://jackett.acab.enterprises/favicon.ico
+  - name: BPD Watch
+    url: https://bpdwatch.com
+    icon: https://bpdwatch.com/static/icons/favicon-32x32.png
+  - name: Case Explorer
+    url: https://mdcaseexplorer.com
+    icon: https://mdcaseexplorer.com/favicon.ico
+  - name: Open Justice Baltimore
+    url: https://openjusticebaltimore.org
+    icon: https://openjusticebaltimore.org/favicon-32x32.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.acab.enterprises
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**ACAB Enterprises** status"
+  introMessage: Check here for the status of ACAB Enterprises websites.
   navbar:
     - title: Status
       href: /
