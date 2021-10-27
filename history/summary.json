@@ -318,19 +318,19 @@
     "url": "https://jackett.acab.enterprises",
     "icon": "https://jackett.acab.enterprises/favicon.ico",
     "slug": "jackett",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 726,
-    "timeDay": 3818,
-    "timeWeek": 1311,
-    "timeMonth": 726,
-    "timeYear": 726,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 706,
+    "timeDay": 2629,
+    "timeWeek": 1193,
+    "timeMonth": 706,
+    "timeYear": 706,
     "dailyMinutesDown": {
-      "2021-10-27": 0
+      "2021-10-27": 21
     }
   }
 ]
