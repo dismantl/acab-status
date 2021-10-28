@@ -31,6 +31,9 @@ sites:
     icon: https://app.themonumentquilt.org/favicon.ico
   - name: The Monument Quilt (Archive)
     url: $MQ_ARCHIVE_URL
+  - name: Klaxon
+    url: https://klaxon.acab.enterprises
+    icon: https://klaxon.acab.enterprises/favicon.ico
   - name: Personal website
     url: https://disman.tl
   - name: Nextcloud
