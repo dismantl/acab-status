@@ -240,9 +240,9 @@
     "url": "$MAIL_URL",
     "icon": "https://mail.acab.enterprises/favicon.ico",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.65%",
@@ -252,6 +252,7 @@
     "timeMonth": 234,
     "timeYear": 243,
     "dailyMinutesDown": {
+      "2021-11-14": 0,
       "2021-11-09": 16,
       "2021-10-10": 159
     }
