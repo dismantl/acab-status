@@ -42,18 +42,20 @@
     "url": "https://bpdwatch.com",
     "icon": "https://bpdwatch.com/static/icons/favicon-32x32.png",
     "slug": "bpd-watch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 469,
-    "timeDay": 663,
-    "timeWeek": 561,
-    "timeMonth": 441,
-    "timeYear": 469,
-    "dailyMinutesDown": {}
+    "time": 471,
+    "timeDay": 641,
+    "timeWeek": 568,
+    "timeMonth": 447,
+    "timeYear": 471,
+    "dailyMinutesDown": {
+      "2021-11-26": 0
+    }
   },
   {
     "name": "Case Explorer",
