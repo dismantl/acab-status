@@ -42,19 +42,19 @@
     "url": "https://bpdwatch.com",
     "icon": "https://bpdwatch.com/static/icons/favicon-32x32.png",
     "slug": "bpd-watch",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 471,
-    "timeDay": 641,
-    "timeWeek": 568,
-    "timeMonth": 447,
-    "timeYear": 471,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.93%",
+    "time": 472,
+    "timeDay": 591,
+    "timeWeek": 560,
+    "timeMonth": 448,
+    "timeYear": 472,
     "dailyMinutesDown": {
-      "2021-11-26": 0
+      "2021-11-26": 47
     }
   },
   {
