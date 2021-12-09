@@ -194,10 +194,10 @@
     "url": "https://disman.tl",
     "icon": "https://favicons.githubusercontent.com/disman.tl",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 906,
@@ -205,7 +205,9 @@
     "timeWeek": 973,
     "timeMonth": 813,
     "timeYear": 906,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-09": 1
+    }
   },
   {
     "name": "Nextcloud",
@@ -248,9 +250,9 @@
     "url": "$MAIL_URL",
     "icon": "https://mail.acab.enterprises/favicon.ico",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "97.26%",
+    "uptimeDay": "97.24%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.72%",
