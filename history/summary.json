@@ -194,10 +194,10 @@
     "url": "https://disman.tl",
     "icon": "https://favicons.githubusercontent.com/disman.tl",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 917,
@@ -206,6 +206,7 @@
     "timeMonth": 817,
     "timeYear": 917,
     "dailyMinutesDown": {
+      "2021-12-13": 1,
       "2021-12-09": 19
     }
   },
@@ -250,9 +251,9 @@
     "url": "$MAIL_URL",
     "icon": "https://mail.acab.enterprises/favicon.ico",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.69%",
@@ -262,6 +263,7 @@
     "timeMonth": 267,
     "timeYear": 254,
     "dailyMinutesDown": {
+      "2021-12-13": 0,
       "2021-12-09": 83,
       "2021-11-16": 26,
       "2021-11-09": 16,
