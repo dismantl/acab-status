@@ -85,9 +85,9 @@
     "url": "https://openjusticebaltimore.org",
     "icon": "https://openjusticebaltimore.org/favicon-32x32.png",
     "slug": "open-justice-baltimore",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -96,7 +96,9 @@
     "timeWeek": 163,
     "timeMonth": 292,
     "timeYear": 337,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-27": 0
+    }
   },
   {
     "name": "FORCE",
@@ -124,18 +126,18 @@
     "icon": "https://themonumentquilt.org/favicon.ico",
     "slug": "the-monument-quilt",
     "status": "down",
-    "uptime": "97.72%",
+    "uptime": "97.70%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "55.09%",
-    "uptimeMonth": "89.67%",
-    "uptimeYear": "97.72%",
+    "uptimeWeek": "54.54%",
+    "uptimeMonth": "89.54%",
+    "uptimeYear": "97.70%",
     "time": 860,
     "timeDay": 1368,
     "timeWeek": 898,
     "timeMonth": 985,
     "timeYear": 860,
     "dailyMinutesDown": {
-      "2022-02-27": 69,
+      "2022-02-27": 125,
       "2022-02-26": 1440,
       "2022-02-25": 1440,
       "2022-02-24": 1440,
