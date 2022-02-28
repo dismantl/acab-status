@@ -42,9 +42,9 @@ sites:
   - name: Analytics
     url: https://analytics.acab.enterprises
     icon: https://analytics.acab.enterprises/plugins/CoreHome/images/favicon.png
-  - name: Mail
-    url: $MAIL_URL
-    icon: https://mail.acab.enterprises/favicon.ico
+#   - name: Mail
+#     url: $MAIL_URL
+#     icon: https://mail.acab.enterprises/favicon.ico
   - name: Plex
     url: https://plex.acab.enterprises/web/index.html
     icon: https://plex.acab.enterprises/web/favicon.ico
