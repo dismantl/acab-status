@@ -13,7 +13,7 @@
     "time": 836,
     "timeDay": 663,
     "timeWeek": 746,
-    "timeMonth": 841,
+    "timeMonth": 843,
     "timeYear": 836,
     "dailyMinutesDown": {
       "2022-03-25": 18,
@@ -37,7 +37,7 @@
     "time": 609,
     "timeDay": 1051,
     "timeWeek": 1032,
-    "timeMonth": 1040,
+    "timeMonth": 1028,
     "timeYear": 609,
     "dailyMinutesDown": {
       "2022-02-24": 22
@@ -57,7 +57,7 @@
     "time": 468,
     "timeDay": 654,
     "timeWeek": 398,
-    "timeMonth": 472,
+    "timeMonth": 469,
     "timeYear": 468,
     "dailyMinutesDown": {
       "2022-03-14": 139,
@@ -79,7 +79,7 @@
     "time": 817,
     "timeDay": 532,
     "timeWeek": 655,
-    "timeMonth": 676,
+    "timeMonth": 705,
     "timeYear": 817,
     "dailyMinutesDown": {}
   },
@@ -97,7 +97,7 @@
     "time": 340,
     "timeDay": 390,
     "timeWeek": 297,
-    "timeMonth": 339,
+    "timeMonth": 340,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2022-02-27": 123
@@ -117,7 +117,7 @@
     "time": 1192,
     "timeDay": 1308,
     "timeWeek": 1274,
-    "timeMonth": 1348,
+    "timeMonth": 1333,
     "timeYear": 1192,
     "dailyMinutesDown": {
       "2022-02-27": 75,
@@ -130,15 +130,15 @@
     "icon": "https://themonumentquilt.org/favicon.ico",
     "slug": "the-monument-quilt",
     "status": "up",
-    "uptime": "97.21%",
+    "uptime": "97.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "97.21%",
+    "uptimeMonth": "98.17%",
+    "uptimeYear": "97.22%",
     "time": 987,
     "timeDay": 718,
     "timeWeek": 1692,
-    "timeMonth": 1598,
+    "timeMonth": 1548,
     "timeYear": 987,
     "dailyMinutesDown": {
       "2022-02-28": 887,
@@ -164,7 +164,7 @@
     "time": 383,
     "timeDay": 522,
     "timeWeek": 358,
-    "timeMonth": 398,
+    "timeMonth": 400,
     "timeYear": 383,
     "dailyMinutesDown": {
       "2022-02-27": 74
@@ -184,7 +184,7 @@
     "time": 244,
     "timeDay": 320,
     "timeWeek": 212,
-    "timeMonth": 240,
+    "timeMonth": 245,
     "timeYear": 244,
     "dailyMinutesDown": {
       "2022-02-27": 73,
@@ -205,7 +205,7 @@
     "time": 492,
     "timeDay": 837,
     "timeWeek": 496,
-    "timeMonth": 523,
+    "timeMonth": 527,
     "timeYear": 492,
     "dailyMinutesDown": {
       "2022-03-14": 137
@@ -225,7 +225,7 @@
     "time": 886,
     "timeDay": 1240,
     "timeWeek": 920,
-    "timeMonth": 838,
+    "timeMonth": 842,
     "timeYear": 886,
     "dailyMinutesDown": {
       "2021-12-13": 37,
@@ -246,7 +246,7 @@
     "time": 590,
     "timeDay": 945,
     "timeWeek": 580,
-    "timeMonth": 688,
+    "timeMonth": 686,
     "timeYear": 590,
     "dailyMinutesDown": {
       "2022-03-14": 134
@@ -260,13 +260,13 @@
     "status": "up",
     "uptime": "97.01%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "76.13%",
+    "uptimeWeek": "77.18%",
     "uptimeMonth": "83.27%",
     "uptimeYear": "97.01%",
     "time": 505,
     "timeDay": 553,
     "timeWeek": 497,
-    "timeMonth": 529,
+    "timeMonth": 539,
     "timeYear": 505,
     "dailyMinutesDown": {
       "2022-03-24": 943,
@@ -315,7 +315,7 @@
     "time": 287,
     "timeDay": 303,
     "timeWeek": 290,
-    "timeMonth": 316,
+    "timeMonth": 314,
     "timeYear": 287,
     "dailyMinutesDown": {
       "2022-03-14": 128,
@@ -336,7 +336,7 @@
     "time": 388,
     "timeDay": 311,
     "timeWeek": 273,
-    "timeMonth": 376,
+    "timeMonth": 374,
     "timeYear": 388,
     "dailyMinutesDown": {
       "2022-03-29": 25,
@@ -358,7 +358,7 @@
     "time": 424,
     "timeDay": 442,
     "timeWeek": 298,
-    "timeMonth": 367,
+    "timeMonth": 379,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2022-03-14": 125,
@@ -379,7 +379,7 @@
     "time": 424,
     "timeDay": 329,
     "timeWeek": 320,
-    "timeMonth": 404,
+    "timeMonth": 413,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2022-03-29": 25,
